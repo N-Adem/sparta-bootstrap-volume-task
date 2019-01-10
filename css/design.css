@@ -1,0 +1,28 @@
+/*---------------Layout Design----------------*/
+.help-box-design{
+    background-color: darkslategrey;
+}
+.help-box-design h1{
+    color: white;
+}
+article div.container{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.contain-design{
+background-color: rgb(190, 255, 233,0.3);
+transform: translateY(-200px);
+padding-bottom: 200px;
+}
+/*-----------Typography design----------------*/
+article p{
+    color:white;
+}
+/*------------carousel design----------------*/
+.carousel img{
+    height: 100px;
+    width: 90px;
+    margin-left: 50%;
+    object-fit: contain;  
+}
+
